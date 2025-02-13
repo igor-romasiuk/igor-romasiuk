@@ -28,6 +28,3 @@ Passionate Frontend Developer | React Enthusiast
 
 ## Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-romasiuk&layout=compact&theme=dark&hide_border=true)
-
-## Current Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=igor-romasiuk&theme=dark&hide_border=true)](https://git.io/streak-stats)
