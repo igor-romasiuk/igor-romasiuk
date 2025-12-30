@@ -1,13 +1,13 @@
 # Hey there, I'm Igor! 👋
 
 ## About Me:
-Passionate Frontend Developer | React Enthusiast
+Frontend Developer with 2+ years of experience
 
 ## Languages:
 🇺🇦 Ukrainian - Native
-🇬🇧 English - Intermediate
+🇬🇧 English - Upper-Intermediate
 
-## My stack and tools:
+## My main stack and tools:
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -23,8 +23,3 @@ Passionate Frontend Developer | React Enthusiast
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igor-romasiuk&show_icons=true&theme=dark&hide_border=true)
-
-## Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-romasiuk&layout=compact&theme=dark&hide_border=true)
